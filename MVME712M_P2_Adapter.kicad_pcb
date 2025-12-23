@@ -6943,7 +6943,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "03.12.2025"
+	(gr_text "23.12.2025"
 		(at 42 71.5 90)
 		(layer "F.SilkS")
 		(uuid "5e866e5d-1d89-4f2f-91c9-0605eafd7a6f")
