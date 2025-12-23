@@ -14587,7 +14587,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse"
+		(property "Value" "TRF250-120T-R2-B-0.5"
 			(at 216.662 17.526 90)
 			(effects
 				(font
@@ -14595,7 +14595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder"
+		(property "Footprint" "Fuse:Fuse_Bourns_MF-RG500"
 			(at 217.17 22.098 90)
 			(effects
 				(font
@@ -16220,7 +16220,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N5819"
 			(at 204.47 16.51 0)
 			(effects
 				(font
