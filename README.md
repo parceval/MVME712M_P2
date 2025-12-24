@@ -50,7 +50,7 @@ This adapter is typically required for the following Motorola CPU boards when us
 
 ## License
 
-This project is released under the [CERN Open Hardware Licence](https://www.google.com/search?q=https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) or [MIT License] — *Please update this section according to your preference.*
+This project is released under the [CERN Open Hardware Licence](https://cern-ohl.web.cern.ch/)
 
 ## Disclaimer
 
